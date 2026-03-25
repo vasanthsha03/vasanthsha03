@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Vasanth — an aspiring Business Analyst skilled in SQL, Power BI, Tableau, Python, Advanced Excel, and Agile & Scrum  methodologies.
+Hi, I’m Vasanth — an aspiring Business Analyst skilled in SQL, Power BI, Tableau, Python, Advanced Excel, Agile & Scrum  methodologies.
 
 
 # 💻 Tech Stack:
